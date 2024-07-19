@@ -1,4 +1,4 @@
-# LLM_Rag
+# retrieval_pipeline
 ![image](https://github.com/user-attachments/assets/c164e48e-410c-4c6c-af8b-6557e2438acb)
 
 사용한 라이브러리: haystack
